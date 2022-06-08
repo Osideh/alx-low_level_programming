@@ -1,4 +1,4 @@
-#include "main.h"
+#include "stdio.h"
 
 
 
@@ -20,7 +20,7 @@
 
      		int i;
 
-			char p[] = "main";
+			char p[] = "_putchar";
 
 
 
