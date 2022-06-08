@@ -1,1 +1,1 @@
-combination of 3 digits
+a program that prints all possible combinations of two two-digit numbers
