@@ -1,1 +1,1 @@
- a program that prints all possible different combinations of three digits
+combination of 3 digits
