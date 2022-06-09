@@ -1,1 +1,1 @@
-Fizz-Buzz test
+print a triangle
