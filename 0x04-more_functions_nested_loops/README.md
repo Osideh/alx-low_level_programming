@@ -1,1 +1,1 @@
-print a triangle
+prime numbers
