@@ -1,1 +1,1 @@
-prime numbers
+ a function that prints an integer
