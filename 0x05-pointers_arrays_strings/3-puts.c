@@ -5,7 +5,7 @@
  *
  * *Return: not.
  */
-void _puts(char *str)
+void _puts(char *str);
 {
 int l = 0;
 while (*(str + l) != '\0')
