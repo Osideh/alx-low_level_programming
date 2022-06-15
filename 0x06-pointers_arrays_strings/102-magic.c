@@ -7,7 +7,7 @@ int *p;
 a[2] = 1024;
 p = &n;
 /*
-** write your line of code here...
+** magic -  prints a[2] = 98
 *
 ** Remember:
 *
