@@ -6,7 +6,7 @@
  ** @argv: array of pointers to arguement strings
  ** Return: number of coins or 1
  */
-int main(int argc, char *argv[]);
+int main(int argc, char *argv[])
 {
 int amount, coins;
 if (argc != 2)
